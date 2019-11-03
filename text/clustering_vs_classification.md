@@ -4,7 +4,7 @@
 
 **Clustering** is when you have no clue of what types there are, and you want an algorithm to discover what (if any!) types there might be. This may involve a lot of trial and error, as the algorithms may find clusters that are not interesting to you
 
-Text classification and text categorization are equivalent in my view. They solve the problem, where a text needs to be classified or categorised into a pre-defined set of categories.
+Text classification and text categorization are equivalent in my view. They solve the problem, where a text needs to be classified or categorised into a **pre-defined set of categories**.
 
 There is a similar task, called text clustering. Here the possible categories are unknown and need to be identified by grouping the texts.
 
@@ -13,7 +13,7 @@ Topic modelling is the process of finding groups of co-occurring words in texts.
 Topic modelling can be used to solve both text classification and clustering.
 
 
-Classification problems require data to be classified into different categories. Clustering problems have observations divided into subsets into different subsets, each of them containing similar information. These subsets are called clusters.
+Classification problems require data to be classified into different categories. Clustering problems have observations divided into subsets, each of them containing similar information. These subsets are called clusters.
 
 Now they sound strangely similar, don’t they?
 
